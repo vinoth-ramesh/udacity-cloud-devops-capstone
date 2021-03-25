@@ -11,13 +11,13 @@ A simple python app, app.py was created using Flask that displays a simple web p
 
 ## Branches
 
-master => This branch contains the latest code that is running is production. So this could be from green or blue branch
-blue => This branch contains code for implementing blue service deployment. 
+master => This branch contains the latest code that is running is production. So this could be from green or blue branch (space, space)
+blue => This branch contains code for implementing blue service deployment (space, space)
 green => This branch contains code for implementing green service deployment
 
 ## Deployment type
 
-This project implements a solution for blue/green deployment to achieve a zero-dowmntime deployment. /CloudFormation/Udacity DevOps Capstone project.pdf shows a high-level diagram for this implementation
+This project implements a solution for blue/green deployment to achieve a zero-dowmntime deployment. /OutputFiles/01-Udacity AWS DevOps Capstone project.pdf shows a high-level diagram for this implementation
 
 ## OutputFiles
 
